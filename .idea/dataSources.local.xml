@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails myapp: development" uuid="fd0cabe4-a7c3-4c63-887a-40f32bf5baec" />
+    <data-source name="Rails myapp: test" uuid="e8d20450-9f59-4458-ae01-880976937a94" />
+    <data-source name="Rails myapp: production" uuid="82686718-c934-4d73-8db4-fa9f23f690f6">
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <schema-pattern>depot_production.*</schema-pattern>
+      <default-schemas>depot_production.*</default-schemas>
+    </data-source>
+  </component>
+</project>
