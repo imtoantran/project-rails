@@ -1,0 +1,8 @@
+/.generators
+/.rakeTasks
+/dataSources.local.xml
+/dataSources.xml
+/encodings.xml
+/myapp.iml
+/vcs.xml
+/workspace.xml
